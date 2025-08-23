@@ -4,4 +4,27 @@
     "link": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8",
     "nome": "Rede Vida Ao Vivo"
   }
+{
+	"capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp",
+	"link": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+	"nome": "TV Cultura Ao Vivo"
+}
+
+{
+	"capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec432b3a9f86ac0b68d68ce11c20dd99.webp",
+	"link": "https://www.hulu.com/network/abc-news-2662d112-7114-4c6b-96fd-cb9e68a27eee?cmp=14855&amp;utm_campaign=OO_ABCNews_Website_OffChannel_NetworkPage&amp",
+	"nome": "ABC News Ao Vivo"
+}
+{
+	"capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac86ed7edabf2d886a3b8430b4f13c91.webp",
+	"link": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+	"nome": "TV Cultura Ao Vivo"
+}
+
+{
+	"capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec432b3a9f86ac0b68d68ce11c20dd99.webp",
+	"link": "https://www.hulu.com/network/abc-news-2662d112-7114-4c6b-96fd-cb9e68a27eee?cmp=14855&amp;utm_campaign=OO_ABCNews_Website_OffChannel_NetworkPage&amp",
+	"nome": "ABC News Ao Vivo"
+}
+
 ]
